@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: d539fc61a7324a34f91b46df4e501525
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - drawPrefab: {fileID: 919132149155446097, guid: 8b892727cb320354cb041bc4d70049d5,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
